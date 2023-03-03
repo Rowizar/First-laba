@@ -39,7 +39,7 @@ li.card>div.card__container>span.card__text--color-blue+p.card__description+(a.c
 ###
 
 ```
-figure.figure>(p.figure__structure>img.figure__photo)+figcaption.figure__description>p.figure__text--size-big+p.figure__text
+figure.figure>(img.figure__photo)+figcaption.figure__description>p.figure__text--size-big+p.figure__text
 ```
 
 #### ![figure](/img/figure.png)
