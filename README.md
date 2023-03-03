@@ -10,7 +10,11 @@
 
 ## BEM and Emmet
 
-### header.header>div.wrapper.header**flex>a.logo+img+nav.nav>ul.nav**ul>li.nav\_\_li\*6>a{Item $}>
+###
+
+```
+header.header>div.wrapper.header**flex>a.logo+img+nav.nav>ul.nav**ul>li.nav\_\_li\*6>a{Item $}>
+```
 
 #### ![header](/img/header.png)
 
